@@ -1,0 +1,20 @@
+{
+    "name": "CSE-I2C-LCD",
+    "keywords": "lcd, i2c, driver, display",
+    "description": "Arduino library for driving character LCDs using PCF8574 I2C I/O expander IC.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/vishnumaiea/ptScheduler.git"
+    },
+    "authors":
+    {
+        "name": "Vishnu Mohanan",
+        "url": "https://github.com/vishnumaiea",
+        "maintainer": true
+    },
+    "version": "0.1",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
